@@ -1,3 +1,5 @@
+import java.util.concurrent.Semaphore;
+
 class FooBar {
     private int n;
     

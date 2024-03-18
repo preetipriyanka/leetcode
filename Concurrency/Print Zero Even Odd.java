@@ -1,3 +1,6 @@
+import java.util.concurrent.Semaphore;
+import java.util.function.IntConsumer;
+
 class ZeroEvenOdd {
     private int n;
     
